@@ -1,15 +1,14 @@
 ### **Final Optimized README**
 
-```markdown
 # DevOps Challenge — Production-Ready Application Deployment
 
-**Live Application URL:** [http://devops-challenge-prod-alb-793309554.us-east-1.elb.amazonaws.com](http://devops-challenge-prod-alb-793309554.us-east-1.elb.amazonaws.com)  
+**Live Application URL:** [View Deployment](http://devops-challenge-prod-alb-793309554.us-east-1.elb.amazonaws.com)  
 **Status:** ![Success](https://img.shields.io/badge/Status-Success-success) ![AWS](https://img.shields.io/badge/Cloud-AWS-orange) ![Terraform](https://img.shields.io/badge/IaC-Terraform-blueviolet)
 
 **Author:** Mary Sandra  
 **AWS Account:** 660405908596  
 **Region:** us-east-1  
-**Repository:** [https://github.com/Mary-Sandra/devops-work-project](https://github.com/Mary-Sandra/devops-work-project)
+**Repository:** [View GitHub Source](https://github.com/Mary-Sandra/devops-work-project)
 
 ---
 
